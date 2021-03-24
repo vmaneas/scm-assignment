@@ -1,0 +1,22 @@
+{
+  "name": "scm-assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vmaneas/scm-assignment.git"
+  },
+  "author": "Vasileios Maneas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vmaneas/scm-assignment/issues"
+  },
+  "homepage": "https://github.com/vmaneas/scm-assignment#readme",
+  "devDependencies": {
+    "cypress": "^6.8.0"
+  }
+}
