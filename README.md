@@ -7,8 +7,8 @@
 
 ### `Run Automation tests`
 
-- To run the tests in Cypress run: `$ ./node_modules/.bin/cypress open`  
-- To run the tests in Cypress headless: `$ ./node_modules/.bin/cypress run` 
+- To run the tests in Cypress, run: `$ ./node_modules/.bin/cypress open`  
+- To run the tests in Cypress headless, run: `$ ./node_modules/.bin/cypress run` 
 
 ### `In case of Cypress error`
 
