@@ -25,11 +25,12 @@ it('Search for flights', () => {
 
 it('Confirm you have results', () => {
     cy.get('.table').should('be.visible')
-    cy.contains('Flight')
+    cy.contains('Flights from')
     cy.contains('Choose')
+    cy.contains('Flight #')
     cy.contains('Airline')
-    cy.contains('Departs')
-    cy.contains('Arrives')
+    cy.contains('Departs: Boston')
+    cy.contains('Arrives: Dublin')
     cy.contains('Price')
 })
 
