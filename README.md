@@ -2,8 +2,8 @@
 
 ## `Install dependencies`
 
-Install node.js from `https://nodejs.org/en/`
-Install dependencies, run `$ npm install`
+- Install node.js from `https://nodejs.org/en/`
+- Install dependencies, by running `$ npm install`
 
 ### `Run Automation tests`
 
