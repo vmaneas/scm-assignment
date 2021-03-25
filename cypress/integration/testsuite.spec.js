@@ -1,6 +1,11 @@
 /// <reference types="cypress" />
 
 describe('Book your flight', () => {
+
+it('Visits the BlazeDemo website', () => {
+        cy.visit('https://blazedemo.com/')
+});
+
 it('Departure and destination city exists', () => {
     cy.contains('Choose your departure city:')
     cy.contains('Choose your destination city:')
