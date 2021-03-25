@@ -79,4 +79,8 @@ it('Complete and Submit the form', () => {
 it('Confirm the purchase', () => {
     cy.contains('Thank you for your purchase today!')
 });
+
+it('Confirm the ID', () => {
+    cy.contains('Id')
+});
 })
