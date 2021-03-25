@@ -1,0 +1,14 @@
+{
+  "departurePort": "Boston",
+  "destinationPort": "Dublin",
+  "firstName": "Vasilis Maneas",
+  "address": "My Address 888",
+  "city": "Copenhagen",
+  "state": "Amager",
+  "zipCode": "2300",
+  "cardType": "American Express",
+  "creditCardNumber": "5555 5555 5555 5555",
+  "creditCardMonth": "11",
+  "creditCardYear": "1821",
+  "nameOnCard": "Vasilis Maneas"
+}
